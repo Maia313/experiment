@@ -336,6 +336,7 @@ Content in the first column | Content in the second column
    * [ ]  1. Watch: React drag and drop tutorial for beginners
 
 `Section 12` — Performance Engineering (for lack of term to use)
+---
 `Section 13` — Soft Skills and Interview Preparation
 ---
 Since every boot-campers have to appear for an interview (well most of them unless you are planning to do a startup, but still this skills will be useful) this section deals with some solid tips, resources to enhance the presentation and storytelling skills.
