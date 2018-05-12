@@ -197,118 +197,127 @@ Content in the first column | Content in the second column
 
 `Section 2.3` — Data Structures and Algorithms
 ---
-   * [ ]  Arrays, Linked List, Stack and Queues
+```diff
+*   * [ ]  Arrays, Linked List, Stack and Queues
    * [ ]  Hash Mapping
    * [ ]  Trees and Graphs
    * [ ]  Sorting and Searching Algorithms
    * [ ]  Dynamic Programming
    * [ ]  *To be published
-
+```
 `Section 3` — Understanding front end frameworks intuitively
 ---
-   * [ ]  Frontend Design patterns and code structures
-   * [ ]  * To be published
-
+```diff
+-   * [ ]  Frontend Design patterns and code structures
+-   * [ ]  * To be published
+```
 `Section 4.1` — Server side with NodeJS
 ---
-   * [ ]  Concepts and foundations of NodeJS
-   * [ ]  Understanding core packages
-   * [ ]  Understanding Routing
-   * [ ]  Understanding SSR
-   * [ ]  Understanding session and state management
-   * [ ]  Authentication and Authorization
-   * [ ]  Single sign on
-   * [ ]  Security
-   * [ ]  Socket.IO for real time communication
-   * [ ]  Deployment
-
+```diff
+-   * [ ]  Concepts and foundations of NodeJS
+-   * [ ]  Understanding core packages
+-   * [ ]  Understanding Routing
+-   * [ ]  Understanding SSR
+-   * [ ]  Understanding session and state management
+-   * [ ]  Authentication and Authorization
+-   * [ ]  Single sign on
+-   * [ ]  Security
+-   * [ ]  Socket.IO for real time communication
+-   * [ ]  Deployment
+```
 `Section 4.2` — Building a custombackend framework like ExpressJS
 ---
-   * [ ]  HTTP
-   * [ ]  Routing
-   * [ ]  Modules
-   * [ ]  Middlewares
-   * [ ]  View Engine
-
+```diff
+-   * [ ]  HTTP
+-   * [ ]  Routing
+-   * [ ]  Modules
+-   * [ ]  Middlewares
+-   * [ ]  View Engine
+```
 `Section 4.3` — Build your own web server
 ---
-   * [ ]  Introduction
-   * [ ]  Networking
-   * [ ]  A simple HTTP Server
-
+```diff
+-   * [ ]  Introduction
+-   * [ ]  Networking
+-   * [ ]  A simple HTTP Server
+```
 `Section 5` — Databases
 ---
-   * [ ]   Fundamentals of Relational and NoSQL
-   * [ ]   *Building your own mini database engine using the Data Structures and Algorithms that we studies.
-   * [ ]   MongoDb
-   * [ ]   MySQL/PostgreSQL
-
+```diff
+-   * [ ]   Fundamentals of Relational and NoSQL
+-   * [ ]   *Building your own mini database engine using the Data Structures and Algorithms that we studies.
+-   * [ ]   MongoDb
+-   * [ ]   MySQL/PostgreSQL
+```
 `Section 6` — API’s and Microservices
 `Section 7` — JavaScript Tooling
 ---
-   * [ ]  Custom build process
-   * [ ]  Webpack
-   * [ ]  Gulp/others+
-
+```diff
+-   * [ ]  Custom build process
+-   * [ ]  Webpack
+-   * [ ]  Gulp/others+
+```
     Any 1 Mandatory, 2 or all from ReactJS, Angular, VueJS (Its up to your hunger)
 
 `Section 8` — ReactJS
 ---
-   * [ ]  Introduction to the philosophy
-   * [ ]  The Virtual DOM
-   * [ ]  Build your own Virtual Dom
-   * [ ]  Understanding JSX
-   * [ ]  Conditionals and Loops
-   * [ ]  Components
-   * [ ]  Functional and Stateful Component
-   * [ ]  Parent/Child communication
-   * [ ]  Understanding state and props
-   * [ ]  Asynchronous nature of setState()
-   * [ ]  Life Cycle
-   * [ ]  Children types
-   * [ ]  The Context API
-   * [ ]  Destructuring arguments
-   * [ ]  Spread attributes
-   * [ ]  Style Components
-   * [ ]  Controlled Input
-   * [ ]  Presentation and Container Component
-   * [ ]  Higher Order Components
-   * [ ]  The Render Props
-   * [ ]  State Management
-   * [ ]  Building reusable components
-   * [ ]  Authentication and Authorization
-   * [ ]  Animations and Transitions
-   * [ ]  Server Side Rendering
-   * [ ]  Application Architecture
-   * [ ]  Server Side Rendering
-   * [ ]  Performance Best Practices (Learning from field)
-   
+```diff
+-   * [ ]  Introduction to the philosophy
+-   * [ ]  The Virtual DOM
+-   * [ ]  Build your own Virtual Dom
+-   * [ ]  Understanding JSX
+-   * [ ]  Conditionals and Loops
+-   * [ ]  Components
+-   * [ ]  Functional and Stateful Component
+-   * [ ]  Parent/Child communication
+-   * [ ]  Understanding state and props
+-   * [ ]  Asynchronous nature of setState()
+-   * [ ]  Life Cycle
+-   * [ ]  Children types
+-   * [ ]  The Context API
+-   * [ ]  Destructuring arguments
+-   * [ ]  Spread attributes
+-   * [ ]  Style Components
+-   * [ ]  Controlled Input
+-   * [ ]  Presentation and Container Component
+-   * [ ]  Higher Order Components
+-   * [ ]  The Render Props
+-   * [ ]  State Management
+-   * [ ]  Building reusable components
+-   * [ ]  Authentication and Authorization
+-   * [ ]  Animations and Transitions
+-   * [ ]  Server Side Rendering
+-   * [ ]  Application Architecture
+-   * [ ]  Server Side Rendering
+-   * [ ]  Performance Best Practices (Learning from field)
+```   
 `Section 9` — Angular
 ---
-   * [ ]  Philosophy
-   * [ ]  TypeScript Fundamentals
-   * [ ]  Angular Fundamentals
-   * [ ]  Components
-   * [ ]  Communication between Components
-   * [ ]  Templates
-   * [ ]  CLI
-   * [ ]  Directives
-   * [ ]  Services
-   * [ ]  Dependency Injection
-   * [ ]  Data binding and Event Handling
-   * [ ]  Pipes
-   * [ ]  Building Reusable Components
-   * [ ]  Template Driven Forms
-   * [ ]  Reactive Forms
-   * [ ]  HTTP Services
-   * [ ]  Routing and Navigation
-   * [ ]  State Management
-   * [ ]  Authentication and Authorization
-   * [ ]  Animations and Transitions
-   * [ ]  Server Side Rendering
-   * [ ]  Deployment
-   * [ ]  Testing
-
+```diff
+-   * [ ]  Philosophy
+-   * [ ]  TypeScript Fundamentals
+-   * [ ]  Angular Fundamentals
+-   * [ ]  Components
+-   * [ ]  Communication between Components
+-   * [ ]  Templates
+-   * [ ]  CLI
+-   * [ ]  Directives
+-   * [ ]  Services
+-   * [ ]  Dependency Injection
+-   * [ ]  Data binding and Event Handling
+-   * [ ]  Pipes
+-   * [ ]  Building Reusable Components
+-   * [ ]  Template Driven Forms
+-   * [ ]  Reactive Forms
+-   * [ ]  HTTP Services
+-   * [ ]  Routing and Navigation
+-   * [ ]  State Management
+-   * [ ]  Authentication and Authorization
+-   * [ ]  Animations and Transitions
+-   * [ ]  Server Side Rendering
+-   * [ ]  Deployment
+-   * [ ]  Testing
+```
 `Section 10` — VueJS
 ---
 ```diff
