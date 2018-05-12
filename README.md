@@ -269,73 +269,73 @@ Section 8 — ReactJS
    * [ ]  The Render Props
    * [ ]  State Management
    * [ ]  Building reusable components
-    Authentication and Authorization
-    Animations and Transitions
-    Server Side Rendering
-    Application Architecture
-    Server Side Rendering
-    Performance Best Practices (Learning from field)
-
+   * [ ]  Authentication and Authorization
+   * [ ]  Animations and Transitions
+   * [ ]  Server Side Rendering
+   * [ ]  Application Architecture
+   * [ ]  Server Side Rendering
+   * [ ]  Performance Best Practices (Learning from field)
+   
 Section 9 — Angular
 
-    Philosophy
-    TypeScript Fundamentals
-    Angular Fundamentals
-    Components
-    Communication between Components
-    Templates
-    CLI
-    Directives
-    Services
-    Dependency Injection
-    Data binding and Event Handling
-    Pipes
-    Building Reusable Components
-    Template Driven Forms
-    Reactive Forms
-    HTTP Services
-    Routing and Navigation
-    State Management
-    Authentication and Authorization
-    Animations and Transitions
-    Server Side Rendering
-    Deployment
-    Testing
+   * [ ]  Philosophy
+   * [ ]  TypeScript Fundamentals
+   * [ ]  Angular Fundamentals
+   * [ ]  Components
+   * [ ]  Communication between Components
+   * [ ]  Templates
+   * [ ]  CLI
+   * [ ]  Directives
+   * [ ]  Services
+   * [ ]  Dependency Injection
+   * [ ]  Data binding and Event Handling
+   * [ ]  Pipes
+   * [ ]  Building Reusable Components
+   * [ ]  Template Driven Forms
+   * [ ]  Reactive Forms
+   * [ ]  HTTP Services
+   * [ ]  Routing and Navigation
+   * [ ]  State Management
+   * [ ]  Authentication and Authorization
+   * [ ]  Animations and Transitions
+   * [ ]  Server Side Rendering
+   * [ ]  Deployment
+   * [ ]  Testing
 
 Section 10 — VueJS
 
-    Philosophy
-    DOM Interation
-    Conditional and Rendering
-    Vue Instances and Life Cycle
-    Components
-    Class and Style Bindings
-    Communication between Components
-    Forms
-    Directives
-    Filters & Mixins
-    Animations and Transitions
-    HTTP
-    Routing
-    State Management with Vuex
-    Transitions and Animations
-    Unit Testing
-    Authentication and Authorization
-    Server Side Rendering
-    Deployment
+   * [ ]  Philosophy
+   * [ ]  DOM Interation
+   * [ ]  Conditional and Rendering
+   * [ ]  Vue Instances and Life Cycle
+   * [ ]  Components
+   * [ ]  Class and Style Bindings
+   * [ ]  Communication between Components
+   * [ ]  Forms
+   * [ ]  Directives
+   * [ ]  Filters & Mixins
+   * [ ]  Animations and Transitions
+   * [ ]  HTTP
+   * [ ]  Routing
+   * [ ]  State Management with Vuex
+   * [ ]  Transitions and Animations
+   * [ ]  Unit Testing
+   * [ ]  Authentication and Authorization
+   * [ ]   Server Side Rendering
+   * [ ]  Deployment
 
-Section 11 — Common Reusable Component (React)
+`Section 11` — Common Reusable Component (React)
 
-    Building a Calendar Control
-    1. Watch: Build a React Calendar Control
-    Building a Data Table with Search, Sorting, Reorder columns by dragging, Column Template, Pagination, CRUD.
-    Reading: Building a DataTable with React (Soon a tutorial to be published)
-    Building common UI Controls
-    Building drag and drop concepts (30 minutes)
-    1. Watch: React drag and drop tutorial for beginners
+   * [ ]  Building a Calendar Control
+   * [ ]  1. Watch: Build a React Calendar Control
+   * [ ]  Building a Data Table with Search, Sorting, Reorder columns by dragging, Column Template, Pagination, CRUD.
+   * [ ]  Reading: Building a DataTable with React (Soon a tutorial to be published)
+   * [ ]  Building common UI Controls
+   * [ ]  Building drag and drop concepts (30 minutes)
+   * [ ]  1. Watch: React drag and drop tutorial for beginners
 
-Section 12 — Performance Engineering (for lack of term to use)
-Section 13 — Soft Skills and Interview Preparation
+`Section 12` — Performance Engineering (for lack of term to use)
+`Section 13` — Soft Skills and Interview Preparation
 
 Since every boot-campers have to appear for an interview (well most of them unless you are planning to do a startup, but still this skills will be useful) this section deals with some solid tips, resources to enhance the presentation and storytelling skills.
 This is where you are nurtured to be a thorough professional from the budding coder!
