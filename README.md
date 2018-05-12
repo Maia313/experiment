@@ -73,36 +73,36 @@ Projects
 
 Section 1.1 — Foundations of Programming
 
-    Introduction and motivation
-    Programming principles
-    Writing your first program
-    Variables
-    Types
-    Conditionals
-    If/Switch/Terniary
-    Looping
-    While/For/Do
-    Nested loops
-    Functions
-    Hoisting
-    Recursive functions
-    Objects
-    Object vs Functions
-    Constructor function
-    Context and Scope
-    Understanding “this"
-    Closures
-    DOM
-    Events
-    Concepts of virtual DOM
-    Asynchronous code
-    Promise
-    Forms and best practices
-    Browser history
-    Frames
-    Ajax and related concepts
-    Es6+
-    HTML5
+  * [ ] Introduction and motivation
+  * [ ]  Programming principles
+  * [ ]  Writing your first program
+  * [ ]  Variables
+  * [ ]  Types
+  * [ ]  Conditionals
+  * [ ]  If/Switch/Terniary
+  * [ ]  Looping
+  * [ ]  While/For/Do
+  * [ ]  Nested loops
+  * [ ]  Functions
+  * [ ]  Hoisting
+  * [ ]  Recursive functions
+  * [ ]  Objects
+  * [ ]  Object vs Functions
+  * [ ]  Constructor function
+  * [ ]  Context and Scope
+  * [ ]  Understanding “this"
+  * [ ]  Closures
+  * [ ]  DOM
+  * [ ]  Events
+  * [ ]  Concepts of virtual DOM
+  * [ ]  Asynchronous code
+  * [ ]  Promise
+  * [ ]  Forms and best practices
+  * [ ]  Browser history
+  * [ ]  Frames
+  * [ ]  Ajax and related concepts
+  * [ ]  Es6+
+  * [ ]  HTML5
 
 Projects
 
@@ -120,155 +120,155 @@ Section 1.4 — Accessibility
 Section 1.5 — Building common web interface using JavaScript
 ** Forms
 
-    Input Feedback
-    Modal Dialogs and Popups
-    Calendar
-    Drag and Drop
-    1. JavaScript basic drag and drop tutorial (18 Minutes) https://www.youtube.com/watch?v=RZjKNbAC87Q
-    Expandable Input
-    Inplace Editor
-    Captcha
-    Password Strength Meter
-    Autosave
+   * [ ]  Input Feedback
+   * [ ]  Modal Dialogs and Popups
+   * [ ]  Calendar
+   * [ ]  Drag and Drop
+   * [ ]  1. JavaScript basic drag and drop tutorial (18 Minutes) https://www.youtube.com/watch?v=RZjKNbAC87Q
+   * [ ]  Expandable Input
+   * [ ]  Inplace Editor
+   * [ ]  Captcha
+   * [ ]  Password Strength Meter
+   * [ ]  Autosave
 
 ** Navigation
 
-    Tabs
-    Accordions/Collapsible
-    Vertical Dropdown Menu
-    Accordion Menu
-    Horizontal Dropdown Menu
+   * [ ]  Tabs
+   * [ ]  Accordions/Collapsible
+   * [ ]  Vertical Dropdown Menu
+   * [ ]  Accordion Menu
+   * [ ]  Horizontal Dropdown Menu
 
 ** Hierarchy
 
-    Modal
-    Popup
-    Breadcrumbs
-    Notifications
+   * [ ]  Modal
+   * [ ]  Popup
+   * [ ]  Breadcrumbs
+   * [ ]  Notifications
 
 ** Content
 
-    Tagging
-    Carousel
-    Tag Cloud
-    Favorites
-    Cards
-    Pagination
-    Continuous Scrolling
-    Thumbnail
+   * [ ]  Tagging
+   * [ ]  Carousel
+   * [ ]  Tag Cloud
+   * [ ]  Favorites
+   * [ ]  Cards
+   * [ ]  Pagination
+   * [ ]  Continuous Scrolling
+   * [ ]  Thumbnail
 
 ** Tables
 
-    Table Filter
-    Drag and Reorder Columns
-    Sort by Column
-    Search
+   * [ ]  Table Filter
+   * [ ]  Drag and Reorder Columns
+   * [ ]  Sort by Column
+   * [ ]  Search
 
 ** Images
 
-    Preloading
-    Lazy Loading
-    Gallery
-    Slide Show
-    Image Zoom
-    Filters (using HTML5 Canvas)
+   * [ ]  Preloading
+   * [ ]  Lazy Loading
+   * [ ]  Gallery
+   * [ ]  Slide Show
+   * [ ]  Image Zoom
+   * [ ]  Filters (using HTML5 Canvas)
 
 ** Search
 
-    Autocomplete
+   * [ ]  Autocomplete
 
 Projects
 
-    Build a web page for a startup
-    Code a client side part of a product.
+   * [ ]  Build a web page for a startup
+   * [ ]  Code a client side part of a product.
 
 Section 2.1 — Developing logic
 
-    Logical thinking
-    Problem solving
-    Basic algorithms
+   * [ ]  Logical thinking
+   * [ ]  Problem solving
+   * [ ]  Basic algorithms
 
 Section 2.3 — Data Structures and Algorithms
 
-    Arrays, Linked List, Stack and Queues
-    Hash Mapping
-    Trees and Graphs
-    Sorting and Searching Algorithms
-    Dynamic Programming
-    *To be published
+   * [ ]  Arrays, Linked List, Stack and Queues
+   * [ ]  Hash Mapping
+   * [ ]  Trees and Graphs
+   * [ ]  Sorting and Searching Algorithms
+   * [ ]  Dynamic Programming
+   * [ ]  *To be published
 
 Section 3 — Understanding front end frameworks intuitively
 
-    Frontend Design patterns and code structures
-    * To be published
+   * [ ]  Frontend Design patterns and code structures
+   * [ ]  * To be published
 
 Section 4.1 — Server side with NodeJS
 
-    Concepts and foundations of NodeJS
-    Understanding core packages
-    Understanding Routing
-    Understanding SSR
-    Understanding session and state management
-    Authentication and Authorization
-    Single sign on
-    Security
-    Socket.IO for real time communication
-    Deployment
+   * [ ]  Concepts and foundations of NodeJS
+   * [ ]  Understanding core packages
+   * [ ]  Understanding Routing
+   * [ ]  Understanding SSR
+   * [ ]  Understanding session and state management
+   * [ ]  Authentication and Authorization
+   * [ ]  Single sign on
+   * [ ]  Security
+   * [ ]  Socket.IO for real time communication
+   * [ ]  Deployment
 
 Section 4.2 — Building a custombackend framework like ExpressJS
 
-    HTTP
-    Routing
-    Modules
-    Middlewares
-    View Engine
+   * [ ]  HTTP
+   * [ ]  Routing
+   * [ ]  Modules
+   * [ ]  Middlewares
+   * [ ]  View Engine
 
 Section 4.3 — Build your own web server
 
-    Introduction
-    Networking
-    A simple HTTP Server
+   * [ ]  Introduction
+   * [ ]  Networking
+   * [ ]  A simple HTTP Server
 
 Section 5 — Databases
 
-    Fundamentals of Relational and NoSQL
-    *Building your own mini database engine using the Data Structures and Algorithms that we studies.
-    MongoDb
-    MySQL/PostgreSQL
+   * [ ]   Fundamentals of Relational and NoSQL
+   * [ ]   *Building your own mini database engine using the Data Structures and Algorithms that we studies.
+   * [ ]   MongoDb
+   * [ ]   MySQL/PostgreSQL
 
 Section 6 — API’s and Microservices
 Section 7 — JavaScript Tooling
 
-    Custom build process
-    Webpack
-    Gulp/others+
+   * [ ]  Custom build process
+   * [ ]  Webpack
+   * [ ]  Gulp/others+
 
     Any 1 Mandatory, 2 or all from ReactJS, Angular, VueJS (Its up to your hunger)
 
 Section 8 — ReactJS
 
-    Introduction to the philosophy
-    The Virtual DOM
-    Build your own Virtual Dom
-    Understanding JSX
-    Conditionals and Loops
-    Components
-    Functional and Stateful Component
-    Parent/Child communication
-    Understanding state and props
-    Asynchronous nature of setState()
-    Life Cycle
-    Children types
-    The Context API
-    Destructuring arguments
-    Spread attributes
-    Style Components
-    Controlled Input
-    Presentation and Container Component
-    Higher Order Components
-    The Render Props
-    State Management
-    Building reusable components
+   * [ ]  Introduction to the philosophy
+   * [ ]  The Virtual DOM
+   * [ ]  Build your own Virtual Dom
+   * [ ]  Understanding JSX
+   * [ ]  Conditionals and Loops
+   * [ ]  Components
+   * [ ]  Functional and Stateful Component
+   * [ ]  Parent/Child communication
+   * [ ]  Understanding state and props
+   * [ ]  Asynchronous nature of setState()
+   * [ ]  Life Cycle
+   * [ ]  Children types
+   * [ ]  The Context API
+   * [ ]  Destructuring arguments
+   * [ ]  Spread attributes
+   * [ ]  Style Components
+   * [ ]  Controlled Input
+   * [ ]  Presentation and Container Component
+   * [ ]  Higher Order Components
+   * [ ]  The Render Props
+   * [ ]  State Management
+   * [ ]  Building reusable components
     Authentication and Authorization
     Animations and Transitions
     Server Side Rendering
