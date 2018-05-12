@@ -311,36 +311,37 @@ Content in the first column | Content in the second column
 
 `Section 10` — VueJS
 ---
-   * [ ]  Philosophy
-   * [ ]  DOM Interation
-   * [ ]  Conditional and Rendering
-   * [ ]  Vue Instances and Life Cycle
-   * [ ]  Components
-   * [ ]  Class and Style Bindings
-   * [ ]  Communication between Components
-   * [ ]  Forms
-   * [ ]  Directives
-   * [ ]  Filters & Mixins
-   * [ ]  Animations and Transitions
-   * [ ]  HTTP
-   * [ ]  Routing
-   * [ ]  State Management with Vuex
-   * [ ]  Transitions and Animations
-   * [ ]  Unit Testing
-   * [ ]  Authentication and Authorization
-   * [ ]   Server Side Rendering
-   * [ ]  Deployment
-
+```diff
+-   * [ ]  Philosophy
+-   * [ ]  DOM Interation
+-   * [ ]  Conditional and Rendering
+-   * [ ]  Vue Instances and Life Cycle
+-   * [ ]  Components
+-   * [ ]  Class and Style Bindings
+-   * [ ]  Communication between Components
+-   * [ ]  Forms
+-   * [ ]  Directives
+-   * [ ]  Filters & Mixins
+-   * [ ]  Animations and Transitions
+-   * [ ]  HTTP
+-   * [ ]  Routing
+-   * [ ]  State Management with Vuex
+-   * [ ]  Transitions and Animations
+-   * [ ]  Unit Testing
+-   * [ ]  Authentication and Authorization
+-   * [ ]   Server Side Rendering
+-   * [ ]  Deployment
+```
 `Section 11` — Common Reusable Component (React)
 ---
 ```diff
-   * [ ]  Building a Calendar Control
-   * [ ]  1. Watch: Build a React Calendar Control
-   * [ ]  Building a Data Table with Search, Sorting, Reorder columns by dragging, Column Template, Pagination, CRUD.
-   * [ ]  Reading: Building a DataTable with React (Soon a tutorial to be published)
-   * [ ]  Building common UI Controls
-   * [ ]  Building drag and drop concepts (30 minutes)
-   * [ ]  1. Watch: React drag and drop tutorial for beginners
+ -  * [ ]  Building a Calendar Control
+ -  * [ ]  1. Watch: Build a React Calendar Control
+ -  * [ ]  Building a Data Table with Search, Sorting, Reorder columns by dragging, Column Template, Pagination, CRUD.
+ -  * [ ]  Reading: Building a DataTable with React (Soon a tutorial to be published)
+ -  * [ ]  Building common UI Controls
+ -  * [ ]  Building drag and drop concepts (30 minutes)
+ -  * [ ]  1. Watch: React drag and drop tutorial for beginners
 ```
 `Section 12` — Performance Engineering (for lack of term to use)
 ---
