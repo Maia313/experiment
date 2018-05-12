@@ -183,13 +183,13 @@ Content in the first column | Content in the second column
    * [ ]  Build a web page for a startup
    * [ ]  Code a client side part of a product.
 
-`**Section 2.1**` — Developing logic
+`Section 2.1` — Developing logic
 ---
    * [ ]  Logical thinking
    * [ ]  Problem solving
    * [ ]  Basic algorithms
 
-`**Section 2.3**` — Data Structures and Algorithms
+`Section 2.3` — Data Structures and Algorithms
 ---
    * [ ]  Arrays, Linked List, Stack and Queues
    * [ ]  Hash Mapping
@@ -198,12 +198,12 @@ Content in the first column | Content in the second column
    * [ ]  Dynamic Programming
    * [ ]  *To be published
 
-`**Section 3**` — Understanding front end frameworks intuitively
+`Section 3` — Understanding front end frameworks intuitively
 ---
    * [ ]  Frontend Design patterns and code structures
    * [ ]  * To be published
 
-`**Section 4.1**` — Server side with NodeJS
+`Section 4.1` — Server side with NodeJS
 ---
    * [ ]  Concepts and foundations of NodeJS
    * [ ]  Understanding core packages
@@ -216,7 +216,7 @@ Content in the first column | Content in the second column
    * [ ]  Socket.IO for real time communication
    * [ ]  Deployment
 
-`**Section 4.2**` — Building a custombackend framework like ExpressJS
+`Section 4.2` — Building a custombackend framework like ExpressJS
 ---
    * [ ]  HTTP
    * [ ]  Routing
@@ -224,21 +224,21 @@ Content in the first column | Content in the second column
    * [ ]  Middlewares
    * [ ]  View Engine
 
-`**Section 4.3**` — Build your own web server
+`Section 4.3` — Build your own web server
 ---
    * [ ]  Introduction
    * [ ]  Networking
    * [ ]  A simple HTTP Server
 
-`**Section 5**` — Databases
+`Section 5` — Databases
 ---
    * [ ]   Fundamentals of Relational and NoSQL
    * [ ]   *Building your own mini database engine using the Data Structures and Algorithms that we studies.
    * [ ]   MongoDb
    * [ ]   MySQL/PostgreSQL
 
-`**Section 6**` — API’s and Microservices
-`**Section 7**` — JavaScript Tooling
+`Section 6` — API’s and Microservices
+`Section 7` — JavaScript Tooling
 ---
    * [ ]  Custom build process
    * [ ]  Webpack
@@ -246,7 +246,7 @@ Content in the first column | Content in the second column
 
     Any 1 Mandatory, 2 or all from ReactJS, Angular, VueJS (Its up to your hunger)
 
-`**Section 8**` — ReactJS
+`Section 8` — ReactJS
 ---
    * [ ]  Introduction to the philosophy
    * [ ]  The Virtual DOM
@@ -277,7 +277,7 @@ Content in the first column | Content in the second column
    * [ ]  Server Side Rendering
    * [ ]  Performance Best Practices (Learning from field)
    
-`**Section 9**` — Angular
+`Section 9` — Angular
 ---
    * [ ]  Philosophy
    * [ ]  TypeScript Fundamentals
@@ -303,7 +303,7 @@ Content in the first column | Content in the second column
    * [ ]  Deployment
    * [ ]  Testing
 
-`**Section 10**` — VueJS
+`Section 10` — VueJS
 ---
    * [ ]  Philosophy
    * [ ]  DOM Interation
@@ -325,7 +325,7 @@ Content in the first column | Content in the second column
    * [ ]   Server Side Rendering
    * [ ]  Deployment
 
-`**Section 11**` — Common Reusable Component (React)
+`Section 11` — Common Reusable Component (React)
 ---
    * [ ]  Building a Calendar Control
    * [ ]  1. Watch: Build a React Calendar Control
@@ -335,8 +335,8 @@ Content in the first column | Content in the second column
    * [ ]  Building drag and drop concepts (30 minutes)
    * [ ]  1. Watch: React drag and drop tutorial for beginners
 
-`**Section 12**` — Performance Engineering (for lack of term to use)
-`**Section 13**` — Soft Skills and Interview Preparation
+`Section 12` — Performance Engineering (for lack of term to use)
+`Section 13` — Soft Skills and Interview Preparation
 ---
 Since every boot-campers have to appear for an interview (well most of them unless you are planning to do a startup, but still this skills will be useful) this section deals with some solid tips, resources to enhance the presentation and storytelling skills.
 This is where you are nurtured to be a thorough professional from the budding coder!
