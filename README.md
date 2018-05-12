@@ -6,11 +6,7 @@ var x=100;
 + var y=3;
 ```
 
-```diff
-var x=100;
-- This text will be italic
-+ _This will also be italic_
-```
+
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
@@ -337,14 +333,15 @@ Content in the first column | Content in the second column
 
 `Section 11` — Common Reusable Component (React)
 ---
-   * [ ]  Building a Calendar Control
-   * [ ]  1. Watch: Build a React Calendar Control
-   * [ ]  Building a Data Table with Search, Sorting, Reorder columns by dragging, Column Template, Pagination, CRUD.
-   * [ ]  Reading: Building a DataTable with React (Soon a tutorial to be published)
-   * [ ]  Building common UI Controls
-   * [ ]  Building drag and drop concepts (30 minutes)
-   * [ ]  1. Watch: React drag and drop tutorial for beginners
-
+```diff
+-   * [ ]  Building a Calendar Control
+-   * [ ]  1. Watch: Build a React Calendar Control
+-   * [ ]  Building a Data Table with Search, Sorting, Reorder columns by dragging, Column Template, Pagination, CRUD.
+-   * [ ]  Reading: Building a DataTable with React (Soon a tutorial to be published)
+-   * [ ]  Building common UI Controls
+-   * [ ]  Building drag and drop concepts (30 minutes)
+-   * [ ]  1. Watch: React drag and drop tutorial for beginners
+```
 `Section 12` — Performance Engineering (for lack of term to use)
 ---
 `Section 13` — Soft Skills and Interview Preparation
