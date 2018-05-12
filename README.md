@@ -56,8 +56,8 @@ Content in the first column | Content in the second column
 
 
 
-Section 0 — HTML and CSS
-
+#### Section 0 — HTML and CSS
+---
     The DOM
     Basic markup
     Page Layout
@@ -67,12 +67,12 @@ Section 0 — HTML and CSS
     CSS Frameworks
     Essential Graphics and Web Design for developers.
 
-Projects
+**Projects**
 
     Build a static portfolio page.
 
-Section 1.1 — Foundations of Programming
-
+#### Section 1.1 — Foundations of Programming
+---
   * [ ] Introduction and motivation
   * [ ]  Programming principles
   * [ ]  Writing your first program
@@ -104,21 +104,22 @@ Section 1.1 — Foundations of Programming
   * [ ]  Es6+
   * [ ]  HTML5
 
-Projects
+**Projects**
 
     Build a 2D Game using HTML5 canvas
     Build the same game using DOM
 
-Section 1.3 — Testing
-
+#### Section 1.3 — Testing
+---
     Unit Testing
     TDD
     Integration Testing
 
-Section 1.4 — Functional Programming
-Section 1.4 — Accessibility
-Section 1.5 — Building common web interface using JavaScript
-** Forms
+#### Section 1.4 — Functional Programming
+#### Section 1.4 — Accessibility
+#### Section 1.5 — Building common web interface using JavaScript
+---
+**Forms**
 
    * [ ]  Input Feedback
    * [ ]  Modal Dialogs and Popups
@@ -131,7 +132,7 @@ Section 1.5 — Building common web interface using JavaScript
    * [ ]  Password Strength Meter
    * [ ]  Autosave
 
-** Navigation
+**Navigation
 
    * [ ]  Tabs
    * [ ]  Accordions/Collapsible
@@ -139,14 +140,14 @@ Section 1.5 — Building common web interface using JavaScript
    * [ ]  Accordion Menu
    * [ ]  Horizontal Dropdown Menu
 
-** Hierarchy
+**Hierarchy
 
    * [ ]  Modal
    * [ ]  Popup
    * [ ]  Breadcrumbs
    * [ ]  Notifications
 
-** Content
+**Content
 
    * [ ]  Tagging
    * [ ]  Carousel
@@ -157,14 +158,14 @@ Section 1.5 — Building common web interface using JavaScript
    * [ ]  Continuous Scrolling
    * [ ]  Thumbnail
 
-** Tables
+**Tables
 
    * [ ]  Table Filter
    * [ ]  Drag and Reorder Columns
    * [ ]  Sort by Column
    * [ ]  Search
 
-** Images
+**Images
 
    * [ ]  Preloading
    * [ ]  Lazy Loading
@@ -173,23 +174,23 @@ Section 1.5 — Building common web interface using JavaScript
    * [ ]  Image Zoom
    * [ ]  Filters (using HTML5 Canvas)
 
-** Search
+**Search
 
    * [ ]  Autocomplete
 
-Projects
+**Projects**
 
    * [ ]  Build a web page for a startup
    * [ ]  Code a client side part of a product.
 
-Section 2.1 — Developing logic
-
+`**Section 2.1**` — Developing logic
+---
    * [ ]  Logical thinking
    * [ ]  Problem solving
    * [ ]  Basic algorithms
 
-Section 2.3 — Data Structures and Algorithms
-
+`**Section 2.3**` — Data Structures and Algorithms
+---
    * [ ]  Arrays, Linked List, Stack and Queues
    * [ ]  Hash Mapping
    * [ ]  Trees and Graphs
@@ -197,13 +198,13 @@ Section 2.3 — Data Structures and Algorithms
    * [ ]  Dynamic Programming
    * [ ]  *To be published
 
-Section 3 — Understanding front end frameworks intuitively
-
+`**Section 3**` — Understanding front end frameworks intuitively
+---
    * [ ]  Frontend Design patterns and code structures
    * [ ]  * To be published
 
-Section 4.1 — Server side with NodeJS
-
+`**Section 4.1**` — Server side with NodeJS
+---
    * [ ]  Concepts and foundations of NodeJS
    * [ ]  Understanding core packages
    * [ ]  Understanding Routing
@@ -215,38 +216,38 @@ Section 4.1 — Server side with NodeJS
    * [ ]  Socket.IO for real time communication
    * [ ]  Deployment
 
-Section 4.2 — Building a custombackend framework like ExpressJS
-
+`**Section 4.2**` — Building a custombackend framework like ExpressJS
+---
    * [ ]  HTTP
    * [ ]  Routing
    * [ ]  Modules
    * [ ]  Middlewares
    * [ ]  View Engine
 
-Section 4.3 — Build your own web server
-
+`**Section 4.3**` — Build your own web server
+---
    * [ ]  Introduction
    * [ ]  Networking
    * [ ]  A simple HTTP Server
 
-Section 5 — Databases
-
+`**Section 5**` — Databases
+---
    * [ ]   Fundamentals of Relational and NoSQL
    * [ ]   *Building your own mini database engine using the Data Structures and Algorithms that we studies.
    * [ ]   MongoDb
    * [ ]   MySQL/PostgreSQL
 
-Section 6 — API’s and Microservices
-Section 7 — JavaScript Tooling
-
+`**Section 6**` — API’s and Microservices
+`**Section 7**` — JavaScript Tooling
+---
    * [ ]  Custom build process
    * [ ]  Webpack
    * [ ]  Gulp/others+
 
     Any 1 Mandatory, 2 or all from ReactJS, Angular, VueJS (Its up to your hunger)
 
-Section 8 — ReactJS
-
+`**Section 8**` — ReactJS
+---
    * [ ]  Introduction to the philosophy
    * [ ]  The Virtual DOM
    * [ ]  Build your own Virtual Dom
@@ -276,8 +277,8 @@ Section 8 — ReactJS
    * [ ]  Server Side Rendering
    * [ ]  Performance Best Practices (Learning from field)
    
-Section 9 — Angular
-
+`**Section 9**` — Angular
+---
    * [ ]  Philosophy
    * [ ]  TypeScript Fundamentals
    * [ ]  Angular Fundamentals
@@ -302,8 +303,8 @@ Section 9 — Angular
    * [ ]  Deployment
    * [ ]  Testing
 
-Section 10 — VueJS
-
+`**Section 10**` — VueJS
+---
    * [ ]  Philosophy
    * [ ]  DOM Interation
    * [ ]  Conditional and Rendering
@@ -324,8 +325,8 @@ Section 10 — VueJS
    * [ ]   Server Side Rendering
    * [ ]  Deployment
 
-`Section 11` — Common Reusable Component (React)
-
+`**Section 11**` — Common Reusable Component (React)
+---
    * [ ]  Building a Calendar Control
    * [ ]  1. Watch: Build a React Calendar Control
    * [ ]  Building a Data Table with Search, Sorting, Reorder columns by dragging, Column Template, Pagination, CRUD.
@@ -334,9 +335,9 @@ Section 10 — VueJS
    * [ ]  Building drag and drop concepts (30 minutes)
    * [ ]  1. Watch: React drag and drop tutorial for beginners
 
-`Section 12` — Performance Engineering (for lack of term to use)
-`Section 13` — Soft Skills and Interview Preparation
-
+`**Section 12**` — Performance Engineering (for lack of term to use)
+`**Section 13**` — Soft Skills and Interview Preparation
+---
 Since every boot-campers have to appear for an interview (well most of them unless you are planning to do a startup, but still this skills will be useful) this section deals with some solid tips, resources to enhance the presentation and storytelling skills.
 This is where you are nurtured to be a thorough professional from the budding coder!
 Section 14— Live Project (This will be part of the study throughout and not a sequential activity)
