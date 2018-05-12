@@ -1,5 +1,5 @@
 # experiment
-~~this~~
+~~this is not a pipe~~
 ```diff
 var x=100;
 - var y=2;
@@ -79,37 +79,38 @@ Content in the first column | Content in the second column
 
 #### Section 1.1 — Foundations of Programming
 ---
-  * [ ]  Introduction and motivation
-  * [ ]  Programming principles
-  * [ ]  Writing your first program
-  * [ ]  Variables
-  * [ ]  Types
-  * [ ]  Conditionals
-  * [ ]  If/Switch/Terniary
-  * [ ]  Looping
-  * [ ]  While/For/Do
-  * [ ]  Nested loops
-  * [ ]  Functions
-  * [ ]  Hoisting
-  * [ ]  Recursive functions
-  * [ ]  Objects
-  * [ ]  Object vs Functions
-  * [ ]  Constructor function
-  * [ ]  Context and Scope
-  * [ ]  Understanding “this"
-  * [ ]  Closures
-  * [ ]  DOM
-  * [ ]  Events
-  * [ ]  Concepts of virtual DOM
-  * [ ]  Asynchronous code
-  * [ ]  Promise
-  * [ ]  Forms and best practices
-  * [ ]  Browser history
-  * [ ]  Frames
-  * [ ]  Ajax and related concepts
-  * [ ]  Es6+
-  * [ ]  HTML5
-
+```diff
++  * [ ]  Introduction and motivation
++  * [ ]  Programming principles
++  * [ ]  Writing your first program
++  * [ ]  Variables
++  * [ ]  Types
++  * [ ]  Conditionals
++  * [ ]  If/Switch/Terniary
++  * [ ]  Looping
++  * [ ]  While/For/Do
++  * [ ]  Nested loops
++  * [ ]  Functions
++  * [ ]  Hoisting
++  * [ ]  Recursive functions
++  * [ ]  Objects
++  * [ ]  Object vs Functions
++  * [ ]  Constructor function
++  * [ ]  Context and Scope
++  * [ ]  Understanding “this"
++  * [ ]  Closures
++  * [ ]  DOM
++  * [ ]  Events
++  * [ ]  Concepts of virtual DOM
++  * [ ]  Asynchronous code
++  * [ ]  Promise
++  * [ ]  Forms and best practices
++  * [ ]  Browser history
++  * [ ]  Frames
++  * [ ]  Ajax and related concepts
++  * [ ]  Es6+
++  * [ ]  HTML5
+```
 `Projects`
 
     Build a 2D Game using HTML5 canvas
@@ -191,19 +192,20 @@ Content in the first column | Content in the second column
 
 `Section 2.1` — Developing logic
 ---
-   * [ ]  Logical thinking
-   * [ ]  Problem solving
-   * [ ]  Basic algorithms
-
+```diff
+-   * [ ]  Logical thinking
+-   * [ ]  Problem solving
+-   * [ ]  Basic algorithms
+```
 `Section 2.3` — Data Structures and Algorithms
 ---
 ```diff
-*   * [ ]  Arrays, Linked List, Stack and Queues
-   * [ ]  Hash Mapping
-   * [ ]  Trees and Graphs
-   * [ ]  Sorting and Searching Algorithms
-   * [ ]  Dynamic Programming
-   * [ ]  *To be published
+-   * [ ]  Arrays, Linked List, Stack and Queues
+-   * [ ]  Hash Mapping
+-   * [ ]  Trees and Graphs
+-   * [ ]  Sorting and Searching Algorithms
+-   * [ ]  Dynamic Programming
+-   * [ ]  *To be published
 ```
 `Section 3` — Understanding front end frameworks intuitively
 ---
