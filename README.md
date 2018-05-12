@@ -1,7 +1,7 @@
 # experiment
 ~~this~~
 
-# This is an <h1> tag
+-# This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
 
@@ -58,14 +58,14 @@ Content in the first column | Content in the second column
 
 #### Section 0 — HTML and CSS
 ---
-    The DOM
-    Basic markup
-    Page Layout
-    CSS
-    Responsive Layout
-    FlexBox and Grid
-    CSS Frameworks
-    Essential Graphics and Web Design for developers.
+  * [ ]  The DOM
+  * [ ]  Basic markup
+  * [ ]  Page Layout
+  * [ ]  CSS
+  * [ ]  Responsive Layout
+  * [ ]  FlexBox and Grid
+  * [ ]  CSS Frameworks
+  * [ ]  Essential Graphics and Web Design for developers.
 
 **Projects**
 
@@ -73,7 +73,7 @@ Content in the first column | Content in the second column
 
 #### Section 1.1 — Foundations of Programming
 ---
-  * [ ] Introduction and motivation
+  * [ ]  Introduction and motivation
   * [ ]  Programming principles
   * [ ]  Writing your first program
   * [ ]  Variables
@@ -111,9 +111,9 @@ Content in the first column | Content in the second column
 
 #### Section 1.3 — Testing
 ---
-    Unit Testing
-    TDD
-    Integration Testing
+  * [ ]  Unit Testing
+  * [ ]  TDD
+  * [ ]  Integration Testing
 
 #### Section 1.4 — Functional Programming
 #### Section 1.4 — Accessibility
