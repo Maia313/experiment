@@ -1,5 +1,10 @@
 # experiment
 ~~this~~
+```diff
+var x=100;
+- var y=2;
++ var y=3;
+```
 
 # This is an <h1> tag
 ## This is an <h2> tag
@@ -67,7 +72,7 @@ Content in the first column | Content in the second column
   * [ ]  CSS Frameworks
   * [ ]  Essential Graphics and Web Design for developers.
 
-**Projects**
+`Projects`
 
     Build a static portfolio page.
 
@@ -104,7 +109,7 @@ Content in the first column | Content in the second column
   * [ ]  Es6+
   * [ ]  HTML5
 
-**Projects**
+`Projects`
 
     Build a 2D Game using HTML5 canvas
     Build the same game using DOM
@@ -119,7 +124,7 @@ Content in the first column | Content in the second column
 #### Section 1.4 — Accessibility
 #### Section 1.5 — Building common web interface using JavaScript
 ---
-**Forms**
+`Forms`
 
    * [ ]  Input Feedback
    * [ ]  Modal Dialogs and Popups
@@ -132,7 +137,7 @@ Content in the first column | Content in the second column
    * [ ]  Password Strength Meter
    * [ ]  Autosave
 
-**Navigation
+`Navigation`
 
    * [ ]  Tabs
    * [ ]  Accordions/Collapsible
@@ -140,14 +145,14 @@ Content in the first column | Content in the second column
    * [ ]  Accordion Menu
    * [ ]  Horizontal Dropdown Menu
 
-**Hierarchy
+`Hierarchy`
 
    * [ ]  Modal
    * [ ]  Popup
    * [ ]  Breadcrumbs
    * [ ]  Notifications
 
-**Content
+`Content`
 
    * [ ]  Tagging
    * [ ]  Carousel
@@ -158,14 +163,14 @@ Content in the first column | Content in the second column
    * [ ]  Continuous Scrolling
    * [ ]  Thumbnail
 
-**Tables
+`Tables`
 
    * [ ]  Table Filter
    * [ ]  Drag and Reorder Columns
    * [ ]  Sort by Column
    * [ ]  Search
 
-**Images
+`Images`
 
    * [ ]  Preloading
    * [ ]  Lazy Loading
@@ -174,11 +179,11 @@ Content in the first column | Content in the second column
    * [ ]  Image Zoom
    * [ ]  Filters (using HTML5 Canvas)
 
-**Search
+`Search`
 
    * [ ]  Autocomplete
 
-**Projects**
+`Projects`
 
    * [ ]  Build a web page for a startup
    * [ ]  Code a client side part of a product.
@@ -346,8 +351,4 @@ Section 14— Live Project (This will be part of the study throughout and not a 
 The entire content will be based around building one large multi-tenant application and will be text and video based.
 Modus Operadi
 
-```diff
-var x=100;
-- var y=2;
-+ var y=3;
-```
+
