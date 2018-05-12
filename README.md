@@ -110,7 +110,7 @@ Content in the first column | Content in the second column
   * [X]  Ajax and related concepts
   * [X]  Es6+
   * [X]  HTML5
-```
+  
 `Projects`
 
     Build a 2D Game using HTML5 canvas
