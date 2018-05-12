@@ -79,37 +79,37 @@ Content in the first column | Content in the second column
 
 #### Section 1.1 — Foundations of Programming
 ---
-```diff
-+  * [ ]  Introduction and motivation
-+  * [ ]  Programming principles
-+  * [ ]  Writing your first program
-+  * [ ]  Variables
-+  * [ ]  Types
-+  * [ ]  Conditionals
-+  * [ ]  If/Switch/Terniary
-+  * [ ]  Looping
-+  * [ ]  While/For/Do
-+  * [ ]  Nested loops
-+  * [ ]  Functions
-+  * [ ]  Hoisting
-+  * [ ]  Recursive functions
-+  * [ ]  Objects
-+  * [ ]  Object vs Functions
-+  * [ ]  Constructor function
-+  * [ ]  Context and Scope
-+  * [ ]  Understanding “this"
-+  * [ ]  Closures
-+  * [ ]  DOM
-+  * [ ]  Events
-+  * [ ]  Concepts of virtual DOM
-+  * [ ]  Asynchronous code
-+  * [ ]  Promise
-+  * [ ]  Forms and best practices
-+  * [ ]  Browser history
-+  * [ ]  Frames
-+  * [ ]  Ajax and related concepts
-+  * [ ]  Es6+
-+  * [ ]  HTML5
+
+  * [X]  Introduction and motivation
+  * [X]  Programming principles
+  * [X]  Writing your first program
+  * [X]  Variables
+  * [X]  Types
+  * [X]  Conditionals
+  * [X]  If/Switch/Terniary
+  * [X]  Looping
+  * [X]  While/For/Do
+  * [X]  Nested loops
+  * [X]  Functions
+  * [X]  Hoisting
+  * [X]  Recursive functions
+  * [X]  Objects
+  * [X]  Object vs Functions
+  * [X]  Constructor function
+  * [X]  Context and Scope
+  * [X]  Understanding “this"
+  * [X]  Closures
+  * [X]  DOM
+  * [X]  Events
+  * [X]  Concepts of virtual DOM
+  * [X]  Asynchronous code
+  * [X]  Promise
+  * [X]  Forms and best practices
+  * [X]  Browser history
+  * [X]  Frames
+  * [X]  Ajax and related concepts
+  * [X]  Es6+
+  * [X]  HTML5
 ```
 `Projects`
 
@@ -192,27 +192,27 @@ Content in the first column | Content in the second column
 
 `Section 2.1` — Developing logic
 ---
-```diff
--   * [ ]  Logical thinking
--   * [ ]  Problem solving
--   * [ ]  Basic algorithms
-```
+
+   * [ ]  Logical thinking
+   * [ ]  Problem solving
+   * [ ]  Basic algorithms
+
 `Section 2.3` — Data Structures and Algorithms
 ---
-```diff
--   * [ ]  Arrays, Linked List, Stack and Queues
--   * [ ]  Hash Mapping
--   * [ ]  Trees and Graphs
--   * [ ]  Sorting and Searching Algorithms
--   * [ ]  Dynamic Programming
--   * [ ]  *To be published
-```
+
+   * [ ]  Arrays, Linked List, Stack and Queues
+   * [ ]  Hash Mapping
+   * [ ]  Trees and Graphs
+   * [ ]  Sorting and Searching Algorithms
+   * [ ]  Dynamic Programming
+   * [ ]  *To be published
+
 `Section 3` — Understanding front end frameworks intuitively
 ---
-```diff
--   * [ ]  Frontend Design patterns and code structures
--   * [ ]  * To be published
-```
+
+   * [ ]  Frontend Design patterns and code structures
+   * [ ]  * To be published
+
 `Section 4.1` — Server side with NodeJS
 ---
 ```diff
