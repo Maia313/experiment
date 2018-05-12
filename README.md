@@ -344,3 +344,8 @@ Section 14— Live Project (This will be part of the study throughout and not a 
 The entire content will be based around building one large multi-tenant application and will be text and video based.
 Modus Operadi
 
+```diff
+var x=100;
+- var y=2;
++ var y=3;
+```
