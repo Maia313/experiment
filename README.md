@@ -215,7 +215,7 @@ Content in the first column | Content in the second column
 
 `Section 4.1` — Server side with NodeJS
 ---
-```diff
+
 -   * [ ]  Concepts and foundations of NodeJS
 -   * [ ]  Understanding core packages
 -   * [ ]  Understanding Routing
@@ -226,44 +226,44 @@ Content in the first column | Content in the second column
 -   * [ ]  Security
 -   * [ ]  Socket.IO for real time communication
 -   * [ ]  Deployment
-```
+
 `Section 4.2` — Building a custombackend framework like ExpressJS
 ---
-```diff
+
 -   * [ ]  HTTP
 -   * [ ]  Routing
 -   * [ ]  Modules
 -   * [ ]  Middlewares
 -   * [ ]  View Engine
-```
+
 `Section 4.3` — Build your own web server
 ---
-```diff
+
 -   * [ ]  Introduction
 -   * [ ]  Networking
 -   * [ ]  A simple HTTP Server
-```
+
 `Section 5` — Databases
 ---
-```diff
+
 -   * [ ]   Fundamentals of Relational and NoSQL
 -   * [ ]   *Building your own mini database engine using the Data Structures and Algorithms that we studies.
 -   * [ ]   MongoDb
 -   * [ ]   MySQL/PostgreSQL
-```
+
 `Section 6` — API’s and Microservices
 `Section 7` — JavaScript Tooling
 ---
-```diff
+
 -   * [ ]  Custom build process
 -   * [ ]  Webpack
 -   * [ ]  Gulp/others+
-```
+
     Any 1 Mandatory, 2 or all from ReactJS, Angular, VueJS (Its up to your hunger)
 
 `Section 8` — ReactJS
 ---
-```diff
+
 -   * [ ]  Introduction to the philosophy
 -   * [ ]  The Virtual DOM
 -   * [ ]  Build your own Virtual Dom
@@ -292,10 +292,10 @@ Content in the first column | Content in the second column
 -   * [ ]  Application Architecture
 -   * [ ]  Server Side Rendering
 -   * [ ]  Performance Best Practices (Learning from field)
-```   
+ 
 `Section 9` — Angular
 ---
-```diff
+
 -   * [ ]  Philosophy
 -   * [ ]  TypeScript Fundamentals
 -   * [ ]  Angular Fundamentals
@@ -319,10 +319,10 @@ Content in the first column | Content in the second column
 -   * [ ]  Server Side Rendering
 -   * [ ]  Deployment
 -   * [ ]  Testing
-```
+
 `Section 10` — VueJS
 ---
-```diff
+
 -   * [ ]  Philosophy
 -   * [ ]  DOM Interation
 -   * [ ]  Conditional and Rendering
@@ -342,10 +342,10 @@ Content in the first column | Content in the second column
 -   * [ ]  Authentication and Authorization
 -   * [ ]   Server Side Rendering
 -   * [ ]  Deployment
-```
+
 `Section 11` — Common Reusable Component (React)
 ---
-```diff
+
 -  * [ ]  Building a Calendar Control
 -  * [ ]  1. Watch: Build a React Calendar Control
 -  * [ ]  Building a Data Table with Search, Sorting, Reorder columns by dragging, Column Template, Pagination, CRUD.
@@ -353,7 +353,7 @@ Content in the first column | Content in the second column
 -  * [ ]  Building common UI Controls
 -  * [ ]  Building drag and drop concepts (30 minutes)
 -  * [ ]  1. Watch: React drag and drop tutorial for beginners
-```
+
 `Section 12` — Performance Engineering (for lack of term to use)
 ---
 `Section 13` — Soft Skills and Interview Preparation
