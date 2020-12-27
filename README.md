@@ -4,9 +4,9 @@
 var x=100;
 - var y=2;
 + var y=3;
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+! let orange = 'ORANGE'
+# const gray = 'GRAY'
+@@ typeOf(purple) @@
 ```
 
 
