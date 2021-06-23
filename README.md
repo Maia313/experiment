@@ -364,7 +364,7 @@ Content in the first column | Content in the second column
 Since every boot-campers have to appear for an interview (well most of them unless you are planning to do a startup, but still this skills will be useful) this section deals with some solid tips, resources to enhance the presentation and storytelling skills.
 This is where you are nurtured to be a thorough professional from the budding coder!
  
-`Section 14` — Live Project (This will be part of the study throughout and not a sequential activity)
+`Section 14` — Live Project 
 ---
 The entire content will be based around building one large multi-tenant application and will be text and video based.
 Modus Operadi
