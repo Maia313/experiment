@@ -357,13 +357,14 @@ Content in the first column | Content in the second column
 -  * [ ]  Building drag and drop concepts (30 minutes)
 -  * [ ]  1. Watch: React drag and drop tutorial for beginners
 
-`Section 12` — Performance Engineering (for lack of term to use)
+`Section 12` — Performance Engineering
 ---
 `Section 13` — Soft Skills and Interview Preparation
 ---
 Since every boot-campers have to appear for an interview (well most of them unless you are planning to do a startup, but still this skills will be useful) this section deals with some solid tips, resources to enhance the presentation and storytelling skills.
 This is where you are nurtured to be a thorough professional from the budding coder!
-Section 14— Live Project (This will be part of the study throughout and not a sequential activity)
+ 
+`Section 14` — Live Project (This will be part of the study throughout and not a sequential activity)
 
 The entire content will be based around building one large multi-tenant application and will be text and video based.
 Modus Operadi
